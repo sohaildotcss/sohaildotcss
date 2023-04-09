@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sohail Ahamed <img
-        src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"
-        height="30" width="30"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div>
+<h1 align="center">Hi, I'm Sohail Ahamed <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
+<p align ="center">  A passionate frontend developer from India </p>        
+</div
 
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="">
 <p align="left"> <img
