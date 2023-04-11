@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Sohail Ahamed <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" </h1>
-<h2 align ="center">  A passionate frontend developer from India </h2>        
+<h2 align ="center">  An aspiring Frontend Developer </h2>        
 
 
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="">
@@ -12,13 +12,13 @@
             src="https://img.shields.io/twitter/follow/sohaildotcss?logo=twitter&style=for-the-badge"
             alt="sohaildotcss" /></a> </p>
 
-- 🔭 I'm currently working on **Job Searching Application**
+- 🔭 I'm currently working on **Job Searching Application.**
 
-- 🌱 I'm currently learning **React, Vite.**
+- 🌱 I'm currently learning **React with Vite, MongoDB, Excel.**
 
 - 📫 How to reach me **sohailqwerty7@gmail.com**
 
-- ⚡ Fun fact **"I speak fluent HTML, CSS, and JavaScript, but my favorite language is sarcasm."**
+- ⚡ Fun fact **"I speak fluent HTML, CSS, and JavaScript, but my favorite language is Sarcasm."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
