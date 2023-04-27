@@ -1,6 +1,9 @@
+<h1 align="center">Hi, I'm Sohail Ahamed <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"/> </h1>
 
-<h1 align="center">Hi, I'm Sohail Ahamed <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" </h1>
-<h2 align ="center">  An aspiring Frontend Developer. </h2>        
+<h2 align ="center">  An aspiring Frontend Developer.
+<img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/> </h2>    
+
+
 
 
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="">
@@ -73,3 +76,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildotcss&" alt="sohaildotcss" />
 </p>
+
+
+<style>
+.react-logo{
+        animation: reactanimation 8s infinite linear;
+}
+@keyframes reactanimation{
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg)
+}
+
+</style>
