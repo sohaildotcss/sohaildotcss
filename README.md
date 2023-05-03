@@ -78,7 +78,7 @@
 </p>
 
 
-<style>
+<!-- <style>
 .react-logo{
         animation: reactanimation 8s infinite linear;
 }
@@ -87,4 +87,4 @@
   100% {transform: rotate(360deg)
 }
 
-</style>
+</style> -->
