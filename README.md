@@ -71,11 +71,19 @@
         alt="sohaildotcss" /></p> -->
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sohaildotcss&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=sohaildotcss&show_icons=true&locale=en&theme=radical"
         alt="sohaildotcss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildotcss&" alt="sohaildotcss" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildotcss&theme=radical" alt="sohaildotcss" />
 </p>
+<br>
+
+<a href="https://github.com/sohaildotcss/Salesforce-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Salesforce-Project&theme=buefy" />
+</a>
+<a href="https://github.com/sohaildotcss/Landing-Page-Template-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Landing-Page-Template-project&theme=buefy" />
+</a>
 
 
 <!-- <style>
