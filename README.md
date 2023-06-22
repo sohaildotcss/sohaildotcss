@@ -78,9 +78,11 @@
 </p>
 <br>
 
-<a href="https://github.com/sohaildotcss/Salesforce-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Salesforce-Project&theme=radical" />
+
+<a href="https://github.com/sohaildotcss/student-data-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=student-data-management&theme=radical" />
 </a>
+
 <a href="https://github.com/sohaildotcss/Landing-Page-Template-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Landing-Page-Template-project&theme=radical" />
 </a>
