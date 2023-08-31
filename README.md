@@ -15,11 +15,11 @@
             src="https://img.shields.io/twitter/follow/sohaildotcss?logo=twitter&style=for-the-badge"
             alt="sohaildotcss" /></a> </p>
 
-- 🔭 I'm currently working on **Job Searching Application.**
+- 🔭 I'm currently working on **Food Ordering Website.**
 
-- 🌱 I'm currently learning **React with Vite, MongoDB, Excel.**
+- 🌱 I'm currently learning **React with NextJS, MongoDB, Excel.**
 
-- 📫 How to reach me **sohailqwerty7@gmail.com**
+- 📫 How to reach me **sohaildotcss@gmail.com**
 
 - ⚡ Fun fact **"I speak fluent HTML, CSS, and JavaScript, but my favorite language is Sarcasm."**
 
