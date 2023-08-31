@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sohaildotcss@gmail.com**
 
-- ⚡ Fun fact **"I speak fluent HTML, CSS, and JavaScript, but my favorite language is Sarcasm."**
+- ⚡ Fun fact **"I speak fluent CSS and JavaScript, but my favorite language is Sarcasm."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
