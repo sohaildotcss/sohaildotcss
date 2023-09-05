@@ -52,7 +52,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">Languages, Frameworks and Tools:</h2>
+<h2 align="center">Languages, Frameworks and Tools that i use:</h2>
 
 <br>
 <div align="center">
