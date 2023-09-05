@@ -4,8 +4,8 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&weight=700&duration=4000&pause=1000&color=FFF7EF&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+;I'm+a+Frontend+Developer">
 </h1>
-<h2 align ="center">  An aspiring Frontend Developer.
-<img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/> </h2>    
+<!-- <h2 align ="center">  An aspiring Frontend Developer.
+<img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/> </h2>     -->
 
 
 
