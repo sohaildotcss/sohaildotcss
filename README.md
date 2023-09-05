@@ -25,7 +25,7 @@
 <p>
 - 👀 I'm currently learning **React with NextJS, MongoDB, Excel.**
 <p>
-- � How to reach me **sohaildotcss@gmail.com**
+- 💌 How to reach me **sohaildotcss@gmail.com**
 <p>
 - 💀 Fun fact **"I speak fluent CSS and JavaScript, but my favorite language is Sarcasm."**
 
