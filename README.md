@@ -1,9 +1,9 @@
 <!-- <h1 align="center">Hi, I'm Sohail Ahamed <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"/> </h1> -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,I'm Sohail Ahamed👋;+I'm a+Front End Developer.;" />
-</h1>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&weight=700&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+;I'm+a+Frontend+Developer">
+</h1>
 <h2 align ="center">  An aspiring Frontend Developer.
 <img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/> </h2>    
 
@@ -55,7 +55,7 @@
 <hr>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
