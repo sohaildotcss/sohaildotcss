@@ -60,7 +60,7 @@
 <br> <hr>
 </div> 
 <div align="center">
-  <h2>🍃 My Contributions ☮️</h2>
+  <h2>🍃 My Contributions 🍃</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
@@ -73,7 +73,7 @@
 <div align="center">
         <img width=495 align="center" src="https://github-readme-stats.vercel.app/api?username=sohaildotcss&show_icons=true&locale=en&theme=radical" alt="sohaildotcss" /> <br> <br>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildotcss&theme=synthwave" alt="sohaildotcss" /> <br> <br>
-         <img width=495 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sohaildotcss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+        <img width=495 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sohaildotcss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 <br>
