@@ -56,9 +56,7 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br> <br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,unreal" />
-<br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,discord,typescript,github,firebase,linux,js,blender,redux,postgres,md,babel,androidstudio,html,vscode,ps,instagram,mongodb,docker,bootstrap,postman,ae,vercel,mysql,vite,express,css,sass,nodejs,figma,linkedin&perline=11" /><br>
 <br> <hr>
 </div> 
 <div align="center">
