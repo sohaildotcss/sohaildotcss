@@ -56,22 +56,22 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br> <br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,unreal" />
-</div> 
 <br>
+<br> <hr>
+</div> 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 <!-- <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaildotcss&show_icons=true&locale=en&layout=compact"
         alt="sohaildotcss" /></p> -->
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <div align="center">
         <img width=495 align="center" src="https://github-readme-stats.vercel.app/api?username=sohaildotcss&show_icons=true&locale=en&theme=radical" alt="sohaildotcss" /> <br> <br>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaildotcss&theme=synthwave" alt="sohaildotcss" /> <br> <br>
@@ -93,11 +93,16 @@
 </a>
 </div>
 
-<br/><br/>
 
+<div>
+<br>
+<br>
+<br>   
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=FFCFF6&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+<hr>
+</div>
 <!-- <style>
 .react-logo{
         animation: reactanimation 8s infinite linear;
