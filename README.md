@@ -83,16 +83,17 @@
 
 <hr>
 <h2 align="center">🔥 Popular Repositories 🔥</h2>
+<div align="center">     
 <a href="https://github.com/sohaildotcss/student-data-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=student-data-management&theme=radical" />
-</a>
-<br> <br>
-<a href="https://github.com/sohaildotcss/Landing-Page-Template-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Landing-Page-Template-project&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=student-data-management&theme=radical" />
 </a>
 
+<a href="https://github.com/sohaildotcss/Landing-Page-Template-project">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sohaildotcss&repo=Landing-Page-Template-project&theme=radical" />
+</a>
+</div>
+
 <br/><br/>
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
