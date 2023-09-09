@@ -1,4 +1,9 @@
+
 <!--                      You can copy me, but the paste won't be the same!                  -->
+
+<h1 align="center">
+    <img style="height: 200px; width: 100%; object-fit: cover;" src="https://github.com/sohaildotcss/sohaildotcss/assets/89704607/53f51220-9cfe-459c-80b6-f8f6860bdd5d" alt="Your Alt Text">
+</h1>
 
 
 <h1 align="center">
