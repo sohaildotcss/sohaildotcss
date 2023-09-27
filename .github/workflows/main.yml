@@ -1,28 +1,24 @@
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   schedule:
-    # every 12 hours
     - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-
-  # Also run on every push on the main branch
   push:
     branches:
       - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Configure Git author identity
+        run: |
+          git config --global user.email "sohailqwerty7@gmail.com"
+          git config --global user.name "sohaildotcss"
+        shell: bash
+
       - name: Clone repo
         uses: actions/checkout@v3
 
@@ -30,7 +26,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}  # Add your GitHub username here
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
