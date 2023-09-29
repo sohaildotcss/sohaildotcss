@@ -1,10 +1,13 @@
 
 <!--                      You can copy me, but the paste won't be the same!                  -->
 
+[![An image of @sohaildotcss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohaildotcss)](https://holopin.io/@sohaildotcss)
+
+<!--
 <h1 align="center">
     <img style="height: 200px; width: 100%; object-fit: cover;" src="https://github.com/sohaildotcss/sohaildotcss/assets/89704607/53f51220-9cfe-459c-80b6-f8f6860bdd5d" alt="Your Alt Text">
 </h1>
-
+-->
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+%F0%9F%91%8B;+An+aspiring+Frontend+Developer+👨‍💻](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&background=00000000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+%F0%9F%91%8B;An+aspiring+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
