@@ -12,9 +12,9 @@
 </h1>
 -->
 
-<h1 align="center">
+<!-- <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+%F0%9F%91%8B;+An+aspiring+Frontend+Developer+👨‍💻](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=FFF7EF&background=00000000&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Sohail+Ahamed+%F0%9F%91%8B;An+aspiring+Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
-</h1>
+</h1> -->
 <!-- <h2 align ="center">  An aspiring Frontend Developer.
 <img class="react-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height=auto width="60"/> </h2>     -->
 
