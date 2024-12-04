@@ -3,7 +3,7 @@
 
 <!-- [![An image of @sohaildotcss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohaildotcss)](https://holopin.io/@sohaildotcss) -->
 
-<img src ="">
+<img src ="https://github.com/sohaildotcss/sohaildotcss/blob/main/gifs/LinkedIn%20Cover.png?raw=true">
 
 
 <!--
