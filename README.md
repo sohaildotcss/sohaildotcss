@@ -1,7 +1,10 @@
 
 <!--                      You can copy me, but the paste won't be the same!                  -->
 
-[![An image of @sohaildotcss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohaildotcss)](https://holopin.io/@sohaildotcss)
+<!-- [![An image of @sohaildotcss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohaildotcss)](https://holopin.io/@sohaildotcss) -->
+
+<img src ="">
+
 
 <!--
 <h1 align="center">
